@@ -1,0 +1,1 @@
+Main Branch is my test base. It's configured to test most setups without needing a specialized firmware. Do not use this for a primary keyboard build though! Look at the branch for the proper keymap for your keyboard.
