@@ -3,6 +3,8 @@
 #include "xiao_flex_v2.dtsi" 
 
 &kscan0 {
+	debounce-press-ms = <16>;
+	debounce-release-ms = <16>;
     col-gpios
         = <&gpio1 0 GPIO_ACTIVE_HIGH>
         , <&xiao_d 10 GPIO_ACTIVE_HIGH>
